@@ -2,7 +2,7 @@
 
 View app: https://rjmcbain.github.io/JS-Item-Lister/
 
-![alt text](https://imgur.com/lTiYkEb)
+https://imgur.com/lTiYkEb
 
 ### Technologies Used
 
